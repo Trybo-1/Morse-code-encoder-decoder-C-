@@ -1,4 +1,4 @@
-// Author: Mr. BR. Greaves
+
 #include <iostream>
 #include <string>
 #include "MorseCodeConverter.h"
