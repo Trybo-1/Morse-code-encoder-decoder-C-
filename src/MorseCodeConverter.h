@@ -1,4 +1,4 @@
-// Author: Mr. BR. Greaves
+
 #ifndef MORSECODECONVERTER_H
 #define MORSECODECONVERTER_H
 #include <string>
