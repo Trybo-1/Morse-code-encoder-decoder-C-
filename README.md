@@ -58,6 +58,8 @@ HELLO
 ## Project Structure
 
 ```
+bin/
+└──main.exe
 docs/
 └── build-cpp.bat
 
